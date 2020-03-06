@@ -1,17 +1,17 @@
 # Site settings
-title:          inspiredness.io
-description:    "Inspirational Stories from Human Beings"
+title:          Wire Postmortems
+description:    ""
 baseurl:        ""
-url:            "https://inspiredness.io"
+url:            ""
 
 # Google Analytics
-google_analytics: UA-159911747-1 # <-- THIS SHOULD BE YOUR GOOGLE ANALYTICS ID
+google_analytics: UA-XXXXXXXXX-1 # <-- THIS SHOULD BE YOUR GOOGLE ANALYTICS ID
 
 # Author
 author:
   name:         Fernando Cejas
-  url:          https://fernandocejas.com
-  email:        fcejas@gmail.com
+  url:          https://wire.com/
+  email:        fernando@wire.com
 
 # Build settings
 markdown:       kramdown
