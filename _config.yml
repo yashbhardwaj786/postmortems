@@ -2,7 +2,7 @@
 title:          Wire Postmortems
 description:    ""
 baseurl:        "https://wireapp.github.io/postmortems"
-url:            "https://wireapp.github.io/postmortems"
+url:            ""
 
 # Google Analytics
 google_analytics: UA-XXXXXXXXX-1 # <-- THIS SHOULD BE YOUR GOOGLE ANALYTICS ID
