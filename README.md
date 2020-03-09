@@ -1,10 +1,10 @@
-Inspiredness.io Project
+Wire Postmortem Project
 =========================
 
 This is a jekyll project for:
-* [https://inspiredness.io/](https://inspiredness.io/)
+* [https://wireapp.github.io/postmortems/](https://wireapp.github.io/postmortems/)
 
-**This website is built with Jekyll**. It uses a fork of a template called [Tale](https://github.com/chesterhow/tale) which was **customized** for the purpose of this project. It is fully compatible with Github pages, where it is actually hosted. 
+**This website is built with Jekyll**. It uses a fork of the website [Inspiredness.io](https://inspiredness.io/) by [Fernando Cejas](https://fernandocejas.com/) which was **customized** for the purpose of this project. It is fully compatible with Github pages, where it is actually hosted. 
 
 ![inspiredness_screenshot](https://user-images.githubusercontent.com/1360604/76074925-65762580-5f9c-11ea-9a93-ef4f840ebfdb.png)
 
@@ -103,7 +103,7 @@ Next, add `comments: true` to the YAML front matter of the posts which you would
 ## Contribute
 
 Feel free to contribute either by requesting features or collaborating with new articles. 
-- [Clone the repo](https://github.com/inspiredness/inspiredness.github.io).
+- [Clone the repo](https://github.com/wireapp/postmortems).
 - Create a branch off of master and give it a meaningful name (e.g. my-new-post or my-new-feature).
 - Open a pull request on GitHub and describe the feature, fix or post.
 
@@ -153,5 +153,3 @@ License
     SOFTWARE.
 
 ![http://www.fernandocejas.com](https://github.com/android10/Sample-Data/blob/master/android10/android10_logo_big.png)
-
-<a href="https://www.buymeacoffee.com/android10" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Invite Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
