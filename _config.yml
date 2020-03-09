@@ -1,7 +1,7 @@
 # Site settings
 title:          Wire Postmortems
-description:    ""
-baseurl:        "postmortems"
+description:    "Wire Postmortems"
+baseurl:        "https://wireapp.github.io/postmortems"
 
 # Google Analytics
 google_analytics: UA-XXXXXXXXX-1 # <-- THIS SHOULD BE YOUR GOOGLE ANALYTICS ID
