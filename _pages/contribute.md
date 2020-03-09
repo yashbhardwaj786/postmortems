@@ -15,10 +15,10 @@ You create your content as text files (Markdown). Check [help](/help) for more i
 
 # Contribute using Pull requests
 
-Feel free to contribute either by requesting features (through the [issues section](https://github.com/inspiredness/inspiredness.github.io/issues)) or collaborating with new articles:
-- [Clone the repo](https://github.com/inspiredness/inspiredness.github.io).
+Feel free to contribute either by requesting features (through the [issues section](https://github.com/wireapp/postmortems/issues)) or collaborating with new articles:
+- [Clone the repo](https://github.com/wireapp/postmortems).
 - Create a branch off of master and give it a meaningful name (e.g. my-new-post or my-new-feature).
-- Open a pull request on [GitHub](https://github.com/inspiredness/inspiredness.github.io) and describe the feature, fix or post.
+- Open a pull request on [GitHub](https://github.com/wireapp/postmortems) and describe the feature, fix or post.
 
 
 # License
